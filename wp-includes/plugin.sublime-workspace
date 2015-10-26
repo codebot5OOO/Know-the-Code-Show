@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cu",
+				"current_element"
+			],
+			[
+				"foo",
+				"foobar"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"My",
+				"my_callback"
+			],
+			[
+				"func_",
+				"func_get_args"
+			],
+			[
+				"number",
+				"number_of_columns"
+			],
+			[
+				"nmbe",
+				"number_of_columns"
+			],
+			[
+				"numbe",
+				"number_of_columns"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"cl",
+				"classes"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"MARGIN",
+				"margin-bottom"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"tet-",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"text-",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/parallax-pro/style.css",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-includes/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-11/episode-11/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-11/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-10/plugin.php",
+		"/Users/jeff/Desktop/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-9-Q3/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-9/episode-9-Q3/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-9-C1&c2/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-9/episode-9-C1&c2/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-8/episode-8-CC2/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-8/episode-8-Q2/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-8-Q2/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-8/episode-8-CC1/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-8-CC1/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-8/episode-8-CC1.php",
+		"/Users/jeff/Desktop/episode-8-CC1.php",
+		"/Users/jeff/Desktop/Know The Code/episode-7/episode-7-Q3/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-7/episode-7-Q1/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/episode-7/episode-7-C1/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-7-Q3/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-7-C1/plugin.php",
+		"/Users/jeff/Documents/Websites/www.knowthecode.dev/wp-content/plugins/episode-7-Q1/plugin.php",
+		"/Users/jeff/Documents/plugin.php",
+		"/Users/jeff/Desktop/Web Development/Treehouse/custom_loop/twentyfifteen-child-theme/page-custom.php",
+		"/Users/jeff/Desktop/index.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/header.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/functions.php",
+		"/Users/jeff/Downloads/wp5.5.2/style.css",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/page-Potfolio.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/archive-Potfolio.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/content-Portfolio.php",
+		"/Users/jeff/Desktop/content-Portfolio.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis-sample/content-art.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis-sample/art.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen/page.php",
+		"/Users/jeff/Desktop/archive-Potfolio.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen/archive.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/2011_child/style.css",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/twentythirteen_child/style.css",
+		"/Users/jeff/Desktop/Web Development/Treehouse/style.css",
+		"/Users/jeff/Desktop/Web Development/style.css",
+		"/Users/Shared/.com.serverpress.desktopserver.json",
+		"/Applications/MAMP/htdocs/wordpress2/wp-includes/plugin.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/Portfolio_test.php",
+		"/Users/jeff/Desktop/Know The Code/episode-4/plugin.php",
+		"/Users/jeff/version-control/code/CMB2/example-functions.php",
+		"/Users/jeff/version-control/code/Custom-Metaboxes-and-Fields-for-WordPress/example-functions.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis-sample/single-art.php",
+		"/Users/jeff/Desktop/Know The Code/episode-001-q4/plugin.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/parallax-pro/functions.php",
+		"/Users/jeff/Desktop/Web Development/Custom Post Types/BE_custom_post_type.php",
+		"/Users/jeff/Desktop/BE_custom_post_type.php",
+		"/Users/jeff/Desktop/Web Development/Treehouse/single-art.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis/page.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis/page_archive.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis/single.php",
+		"/Users/jeff/Desktop/portfolio-archive.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-4/plugin.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-4/plugin1.php",
+		"/Users/jeff/Desktop/plugin1.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/plugin.php",
+		"/Users/jeff/Desktop/pluginc2.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/parallax-pro/front-page.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/parallax-pro/font-awesome.css",
+		"/Users/jeff/Downloads/font-awesome-4.4.0/css/font-awesome.css",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/index.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/parallax-pro/archive-portfolio.php",
+		"/Users/jeff/Desktop/archive-portfolio.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/one-pager-genesis-master/style.css",
+		"/Users/jeff/Desktop/Know The Code/episode3C1/plugin3.php",
+		"/Users/jeff/Desktop/Know The Code/episdode3C2/plugin.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episdode3C2/plugin.php",
+		"/Users/jeff/Desktop/plugin3.php",
+		"/Users/jeff/Desktop/Know The Code/episode-2/plugin.php",
+		"/Users/jeff/Desktop/Web Development/Custom Post Types/custom_post_type.php",
+		"/Users/jeff/Desktop/Web Development/Custom Post Types/DH_custom_post_types.php",
+		"/Users/jeff/Desktop/Web Development/your-website-academy/Lesson11/single-dh_movies.php",
+		"/Users/jeff/Desktop/Web Development/Custom Post Types/cpttest.php",
+		"/Users/jeff/Desktop/custom_post_type.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/customtype1.php",
+		"/Users/jeff/Desktop/Web Development/Treehouse/art.php",
+		"/Users/jeff/Desktop/Web Development/php examples/custom_post_type.php",
+		"/Users/jeff/Desktop/customtype1.php",
+		"/Users/jeff/Desktop/CPTex.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/custom_post_types_final.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/display-posts-shortcode/display-posts-shortcode.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/custom-post-type-ui/inc/post-types.php",
+		"/Users/jeff/Desktop/Know The Code/episode3/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/plugin.php",
+		"/Users/jeff/Desktop/Know The Code/challange002.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-002/plugin.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-includes/post-template.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-001-q4/plugin.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-001-q4/Support/title.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-001q4/Support/title.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/plugins/episode-001q4/Q4.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/episode-001q4/title.php",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/episode-001q4/Q4.php",
+		"/Users/jeff/Desktop/title.php",
+		"/Users/jeff/Desktop/Q4.php",
+		"/Users/jeff/Desktop/challange001.php",
+		"/Users/jeff/Desktop/Q2.php",
+		"/Users/jeff/Desktop/Q1.php",
+		"/Users/jeff/Desktop/Web Development/php examples/array_walk.php",
+		"/Users/jeff/Desktop/Web Development/php examples/closures_anonymous_functions.php",
+		"/Users/jeff/Desktop/Web Development/php examples/variable_functions3.php",
+		"/Users/jeff/Desktop/Web Development/php examples/variable_functions2.php",
+		"/Users/jeff/Desktop/Web Development/php examples/deafualt_arr.php",
+		"/Users/jeff/Desktop/Web Development/php examples/index.php",
+		"/Users/jeff/Desktop/function_with_arr.php",
+		"/Users/jeff/Desktop/Web Development/info.php",
+		"/Users/jeff/Desktop/Web Development/custom_post_type.php",
+		"/Applications/style.css",
+		"/Users/jeff/Desktop/Ex_Files_HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/intro.htm",
+		"/Users/jeff/Desktop/Ex_Files_JS_EssT_2011/Exercise Files/Chap05/AccessingDOM/script.js",
+		"/Users/jeff/Desktop/Web Development/your-website-academy/Lesson12/messenger.php",
+		"/Users/jeff/Downloads/single-dh_movies 4.php",
+		"/Users/jeff/Desktop/Web Development/your-website-academy/Lesson10/custom_post_types.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/one-pager-genesis-master/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/one-pager-genesis-master/style.css",
+		"/Applications/MAMP/htdocs/wordpress2/wp-content/themes/genesis-sample/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/parallax-pro/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/parallax-pro/functions.php",
+		"/private/var/folders/gb/rspwl00d3_n3y01qrqlzs9km0000gn/T/dd756a73-1906-4809-9e67-8b8e1c284856/jeff-cunningham/wp-content/themes/one-pager-genesis-master/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/one-pager-genesis-master/front-page.php",
+		"/Users/jeff/Desktop/config.ex.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/portfolio-post-type/portfolio-post-type.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"apply_filters",
+			"apply_filters()",
+			"apply_filters",
+			"$wp_current_filter",
+			"current_filter",
+			"doing_filter",
+			"$wp_current_filter",
+			"<?",
+			"function apply_filters",
+			"auto",
+			"font-awesome",
+			".display-post ",
+			"@media",
+			".inner",
+			".site-inner",
+			"@media",
+			"@media .padding",
+			"@media",
+			"#background",
+			".content",
+			"Event",
+			"site-footer",
+			"site-header",
+			"button",
+			"get_post_class",
+			"site-header",
+			"site-footer",
+			"site-header",
+			".site-footer",
+			".site-header",
+			".site-footer",
+			".site-header",
+			"column",
+			"column classes",
+			"delaybeforebullet",
+			"clone",
+			"Movies",
+			"Movie",
+			"'',",
+			"Movie",
+			"i",
+			"portfolio",
+			"Movie",
+			"portfolio",
+			"Movie",
+			"Portfolio",
+			".chartbox",
+			"#F04848"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plugin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
